@@ -3,7 +3,7 @@
 int main() {
 	int N = 5;
 
-	std::cout << " Creatint a horde of " << N << " zombie " << std::endl;
+	std::cout << " Creating a horde of " << N << " zombie " << std::endl;
 
 	Zombie* horde = zombieHorde(N, "White Walkers");
 
